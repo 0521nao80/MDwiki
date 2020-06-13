@@ -1,4 +1,13 @@
-MDwiki
+MDwikiのめも
 ======
 
-See http://www.mdwiki.info/ for more documentation and details.
+## リンク
+
+-  http://www.mdwiki.info/ 
+
+
+
+
+
+## バグ情報
+
