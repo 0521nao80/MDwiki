@@ -1,4 +1,4 @@
-# GitHub wiki
+> # GitHub wiki
 
 [MDWiki]()
 
@@ -17,6 +17,4 @@
 - - - -
 [Menu Item 3](item3.md)
 
-
-
-# [gimmick:themechooser](Choose theme)
+* #  [gimmick:theme](flatly)
